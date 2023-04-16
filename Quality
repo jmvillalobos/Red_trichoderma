@@ -1,0 +1,9 @@
+To carry out the genetic expression network, all the RNAseq data used were evaluated for quality and it was determined if there was congruence in the replicates.
+
+
+For this, the fastqc and multifatqc programs were used.
+
+Data were trimmed with timmomatic.
+
+Development data in response to a pulse of light.
+
